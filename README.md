@@ -1,4 +1,3 @@
-thing 2
 test
 
 
